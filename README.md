@@ -12,7 +12,7 @@ Here is how to find out the location of a given IP using Unix power tools.
 python ip2location.py IP2LOCATION-LITE-DB3.IPV6.CSV 192.148.209.120
 ```
 
-== Find the location of a list of IPs in a file (one IP per line)
+## Find the location of a list of IPs in a file (one IP per line)
 ```
 python process_ips.py IP2LOCATION-LITE-DB3.IPV6.CSV iplist.txt    
 ```
